@@ -1,0 +1,17 @@
+@import url(navbar.css);
+@import url(header.css);
+@import url(main.css);
+@import url(about.css);
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+   background-color: #b9f8d37d; 
+}
+.container{
+    width: 1040px;
+    margin: auto;
+}
